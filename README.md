@@ -15,3 +15,5 @@ This is a boilerplate for CodeIgniter 4 and React. It is a work in progress and 
 - Webpack
 - Styled Components
 - React Router
+
+Enjoy!
